@@ -1,0 +1,3601 @@
+[
+  {
+    "provider_id": "SVC-170",
+    "name": "Transplant Services",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "SVC-60",
+    "name": "Obstetrics",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "SVC-5",
+    "name": "Cardiology Service",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GLH",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "SVC-200",
+    "name": "Vascular Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "SVC-230",
+    "name": "Neurosurgery Endovascular",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "SVC-50",
+    "name": "Neurosurgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "SVC-25",
+    "name": "Peds Gastroenterology",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "SVC-150",
+    "name": "Pulmonary Medicine",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "SVC-70",
+    "name": "Ophthalmology",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GJSH",
+      "OR GMC",
+      "OR GWV",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "SVC-40",
+    "name": "Gynecology",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSCP",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "SVC-100",
+    "name": "Otolaryngology",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "SVC-20",
+    "name": "Gastroenterology",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "OR GLH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "SVC-160",
+    "name": "Thoracic Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "SVC-90",
+    "name": "Orthopaedics",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GLH",
+      "OR GSWB",
+      "OR GWV",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "SVC-120",
+    "name": "Pediatric Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSWB",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "SVC-220",
+    "name": "Cardiac Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "SVC-45",
+    "name": "Interventional Radiology",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "SVC-110",
+    "name": "Pain Management",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "280701",
+    "name": "WEDDLE, JOHN BRADEN",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "249975",
+    "name": "YACOUB, MARKO M",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "15545",
+    "name": "Gilbert, Jerald Blair, MD",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "291781",
+    "name": "JACKSON, LINDA C",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "233941",
+    "name": "FALVO, ALEXANDRA MARIE",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "272484",
+    "name": "KLONIECKE, EDWARD JOSEPH",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "288888",
+    "name": "LEINWEBER, KATHLEEN ANN",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "226012",
+    "name": "MEISSNER, MATTHEW ARTHUR",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "108020",
+    "name": "HAUGEN, THORSEN WAYNE",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "238252",
+    "name": "FERRONE, DAVID M",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "147488",
+    "name": "GRANDIZIO, LOUIS CHRISTOPHER",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "287892",
+    "name": "FARNELL, CALLIE PERKINS",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "216767",
+    "name": "ENSOR, WILLIAM M",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSHP"
+    ]
+  },
+  {
+    "provider_id": "6268",
+    "name": "INGRAHAM, HERBERT J",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "270825",
+    "name": "FRAZIER, KYLE BRYAN",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "62728",
+    "name": "REINHEIMER, WELLS T",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "289639",
+    "name": "NAJJAR, MARYAM TOMA",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "243174",
+    "name": "BZIK, VICTORIA ASHLEIGH",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "218874",
+    "name": "WHITEHURST, SABRINA",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "261620",
+    "name": "NICKERSON, ASHLEY MARIE",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC"
+    ]
+  },
+  {
+    "provider_id": "159954",
+    "name": "AHUJA, NINA",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "250533",
+    "name": "LEE, PHILIP SOKJOO",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "291222",
+    "name": "FARR, LEELA",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "138774",
+    "name": "LYNOTT, JOHN A",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "217215",
+    "name": "SHAHID, TAMOOR",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC"
+    ]
+  },
+  {
+    "provider_id": "234597",
+    "name": "SUTHAR, DARSHAN",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "284157",
+    "name": "RATHINAMANICKAM, HARINI",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "154573",
+    "name": "TAGLIARENI, JONATHAN",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "230149",
+    "name": "PELL, MAX ANDREW",
+    "service_line": [
+      "Gastroenterology",
+      "General Surgery",
+      "Gynecology",
+      "Orthopaedics",
+      "Otolaryngology",
+      "Pain Management",
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSHP"
+    ]
+  },
+  {
+    "provider_id": "158644",
+    "name": "STRICKLAND, SARAH LYNN",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "128037",
+    "name": "MILLER, STEPHEN EDWARD",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "2507",
+    "name": "GASLIGHTWALA, IRPHAN E",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "147634",
+    "name": "DUNCAN, MONA DEORA",
+    "service_line": [
+      "General Surgery",
+      "Plastic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "211245",
+    "name": "STAVRIDES, KEVIN PAUL",
+    "service_line": [
+      "Neurosurgery",
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "282119",
+    "name": "BODIWALA, VIMAL M",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "270077",
+    "name": "BILGESU, SUZAN AYLIN",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY OSW",
+      "OR GBH",
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "281546",
+    "name": "LEAVITT III, WILLIAM EDGAR",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "249535",
+    "name": "DHESI, KUSHALJIT SINGH",
+    "service_line": [
+      "Pain Management"
+    ],
+    "exclusive_sites": [
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "216729",
+    "name": "PIPER, JAMES PAUL",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GJSH",
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "224107",
+    "name": "RAE, MATTHEW ALEXANDER",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GJSH",
+      "OR GMC",
+      "OR GSACH",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "239262",
+    "name": "BADVE, SIDDHARTH ASHOK",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "200610",
+    "name": "GRETSCHEL, ALANNA",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "143536",
+    "name": "MILLER, HOWARD IPANZA",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "238431",
+    "name": "RAVI, SHRI JAI KIRSHAN",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC"
+    ]
+  },
+  {
+    "provider_id": "248661",
+    "name": "MANOCHA, DIVEY",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "253275",
+    "name": "JUNG, MICHAEL THOMAS",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "254128",
+    "name": "MARTINEZ PEREZ, RAFAEL",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "225228",
+    "name": "WEINER, GREGORY MICHAEL",
+    "service_line": [
+      "Neurosurgery",
+      "Neurosurgery Endovascular"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "205948",
+    "name": "PINNAMANENI, SOWMYA",
+    "service_line": [
+      "Cardiology Service"
+    ],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "260666",
+    "name": "MENEDAL, ANIL KUMAR",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "275734",
+    "name": "DE ALBUQUERQUE LACERDA, IARA",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "136934",
+    "name": "BRANNING, NICOLE MARIE",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "201635",
+    "name": "PURDY, NICHOLAS CRAIG",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "85910",
+    "name": "WIDOM, KENNETH A",
+    "service_line": [
+      "Trauma"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "146211",
+    "name": "FERNANDEZ, MEAGAN DELBAGGIO",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "149086",
+    "name": "GEORGES, ANTHONY",
+    "service_line": [
+      "Pediatric Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "241181",
+    "name": "COOPER, NEAL THOMAS",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "251137",
+    "name": "LEWIS, ANTHONY JAMES",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "215968",
+    "name": "CULBERTSON, SANDRA",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "226847",
+    "name": "PHANG, DAVID KA PUN",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "21090",
+    "name": "ODONNELL, ELAINE ANNE",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "20885",
+    "name": "HAGGERTY, JAMES M",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "158620",
+    "name": "DEEGAN, JOHN H",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "205313",
+    "name": "WOODLEY, GLENN CHRISTOPHER",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "15002",
+    "name": "DOBBINS, KENDALL",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "107527",
+    "name": "RAMEY, JOHN ROBERT",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "206954",
+    "name": "KAPP, BRIAN",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "24831",
+    "name": "KOHN, IRA JOEL",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "153375",
+    "name": "AWOUYA, ELOLO FELIX",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "159919",
+    "name": "LEEMING, ROSEMARY ANN",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "17604",
+    "name": "EVANS, PETER ABRAHAM",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "107516",
+    "name": "YUASA, KORTA",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "205294",
+    "name": "WAGNER, BENJAMIN RICHARDS",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM",
+      "OR GSACH",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "234710",
+    "name": "MONACO III, EDWARD ARTHUR",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "79093",
+    "name": "SABRI, MAHMOUD T",
+    "service_line": [
+      "Peds Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "78193",
+    "name": "SHELLENBERGER, MATTHEW J",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "237774",
+    "name": "DAUCHER, JAMES ANDREW",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "159870",
+    "name": "RAGER, JENNIFER RENEE",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "158686",
+    "name": "KHARA, HARSHIT S",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "157387",
+    "name": "SOUDER, MATTHEW GLEN",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "156440",
+    "name": "JAAP, KATHRYN FRANCES",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY OSW",
+      "OR GBH",
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "156047",
+    "name": "PARKER, DAVID MATTHEW",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "147501",
+    "name": "MAKSIMAK, BRIAN JOSEPH",
+    "service_line": [
+      "Pediatric Surgery",
+      "Peds Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY OSSC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "134538",
+    "name": "MALIK, GAYATRI",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "108745",
+    "name": "AZEREDO, WILLIAM J",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "103342",
+    "name": "BLANSFIELD, JOSEPH A",
+    "service_line": [
+      "General Surgery",
+      "Thoracic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "100664",
+    "name": "FACKTOR, MATTHEW A",
+    "service_line": [
+      "Thoracic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "225526",
+    "name": "SALZLER, GREGORY GORDON",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "441",
+    "name": "Smith, Robert E, MD",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "243207",
+    "name": "MASTERSON, ANNIE K",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "270868",
+    "name": "SHAMOON, DEMA",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "233715",
+    "name": "DEVITT, SEAN MICHAEL",
+    "service_line": [
+      "Plastic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "226076",
+    "name": "VALLE JR, ORLANDO",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "281559",
+    "name": "SHAIKH, DANIAL HARIS",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH"
+    ]
+  },
+  {
+    "provider_id": "211283",
+    "name": "JORDAN, REBECCA MICHELLE",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "249886",
+    "name": "KIM, JOSEPH HYUNGEUN",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "281535",
+    "name": "AMINI, NEDA",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "251096",
+    "name": "CIPRIANO, ANTHONY DAVID",
+    "service_line": [
+      "Thoracic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "55406",
+    "name": "FIROUZI, MASOUD",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "249495",
+    "name": "HENDRIX, PHILIPP",
+    "service_line": [
+      "Neurosurgery Endovascular"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "225481",
+    "name": "KRAMER, ELISABETH HAYLEY",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "159434",
+    "name": "SCHIRMER, CLEMENS MARIA",
+    "service_line": [
+      "Neurosurgery Endovascular"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "232791",
+    "name": "BOWMAN, DAMAN RAY",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "206977",
+    "name": "RUSNOK, RYAN CHRISTOPHER",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "158595",
+    "name": "WEST, SARA FANG JONE",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "156093",
+    "name": "BOGER, JOHN ANTHONY",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "100206",
+    "name": "OBRADOVIC, VLADAN NIKOLA",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "85852",
+    "name": "ZHAO, JING CHENG",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "134493",
+    "name": "MILLER, ERIN ELIZABETH",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "201605",
+    "name": "GILLETTE, JEFFREY",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "210894",
+    "name": "ERCHINGER, THOMAS ANDREW",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "216803",
+    "name": "HA, NGOC TRAM",
+    "service_line": [
+      "Pulmonary Medicine"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "261614",
+    "name": "MORSY, HAIDY",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "14342",
+    "name": "BANNON, JOSEPH PATRICK",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "6741",
+    "name": "FARRELL, TIMOTHY JUDE",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "283126",
+    "name": "TAHILRAMANI, REENA NANDITA",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "232794",
+    "name": "MONROE, NATALIE",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "211782",
+    "name": "MARSHALL, BRYTANIE NICOLE",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "158623",
+    "name": "MOCK, JEREMY ALEXANDER",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "225493",
+    "name": "MERCURI, JOHN JAMES",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "241214",
+    "name": "HALIVELAKIS, EKATERINA",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC",
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "211254",
+    "name": "FANELLI, MATTHEW GREGORY",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "214131",
+    "name": "POPOVA, MAYA STEFANOVA",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "115990",
+    "name": "CUTE, DAVID LYNDELL",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "233993",
+    "name": "WERTZ, AILEEN PATRICIA",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "233981",
+    "name": "SOBOLEWSKI, MICHAEL DAVID",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "7978",
+    "name": "ANDREYCHIK, DAVID A",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "158139",
+    "name": "HAAK, MICHAEL H",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "224105",
+    "name": "LEE, ALEXANDER PATRICK",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "211218",
+    "name": "IRVAN, JOHN JEREMY",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "287926",
+    "name": "RAKO, KYLE MICHAEL",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "145466",
+    "name": "DUNCAN, MARTEN B",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "200708",
+    "name": "SONG, BOYOUNG",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "8611",
+    "name": "ARMSTRONG, MARK E",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GJSH",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "283122",
+    "name": "PROHNITCHI, ION",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "216665",
+    "name": "SMITH, MARIE CATHERINE",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "108035",
+    "name": "LONG, TANNER",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "281556",
+    "name": "PHAN, HAU NGOC THI",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "279910",
+    "name": "SHAHEEN, OSAMA",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "265374",
+    "name": "ALJUBOORI, ZAID",
+    "service_line": [
+      "Neurosurgery",
+      "Neurosurgery Endovascular"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "211366",
+    "name": "STROM, RUSSELL GLENN",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "131894",
+    "name": "CAMPOS BENITEZ, MAURICIO",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "62727",
+    "name": "OBMANN, MELISSA A",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "133361",
+    "name": "MIRRA, LUCINDA STEPHANIE",
+    "service_line": [
+      "Obstetrics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "1649",
+    "name": "FANELLI, GREGORY C",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "122549",
+    "name": "GARVIN, ROBERT P",
+    "service_line": [
+      "Orthopaedics",
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "156442",
+    "name": "BABER, JACOB ADAM",
+    "service_line": [
+      "General Surgery",
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "147713",
+    "name": "KAUFFMAN, CHRISTIAN ANTHONY",
+    "service_line": [
+      "Plastic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "241292",
+    "name": "SCHRANZ, KARL",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "59806",
+    "name": "FULMER, BRANT R",
+    "service_line": [
+      "General Surgery",
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "270867",
+    "name": "RYMARCZUK, GEORGE NICHOLAS",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "245267",
+    "name": "LOUX, TARA JEAN",
+    "service_line": [
+      "Pediatric Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "224098",
+    "name": "KING, LUKE JOSEPH",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "158318",
+    "name": "MURPHY, JAMES EDWARD",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "200809",
+    "name": "ABUATTIEH, MOUHAMMED O",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "109954",
+    "name": "SOHAGIA, AMIT BHIKHALAL",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "224054",
+    "name": "BURGER, MEGAN LEE",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "381",
+    "name": "PELLITTERI, PHILLIP KEVIN",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "205285",
+    "name": "BRIMLEY, CAMERON J",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "216720",
+    "name": "MAHAN, MARK EDWARD",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "233735",
+    "name": "COVELLO, PAUL ANTHONY",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "62160",
+    "name": "BOWEN, THOMAS R",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "234550",
+    "name": "Hoffman, Rebecca Lynn, MD",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR GBH",
+      "OR GJSH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "251089",
+    "name": "ZARUTA, DOUGLAS A",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "211175",
+    "name": "Confer, Bradley, DO",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "249861",
+    "name": "Greif, Benjamin Alexander, MD",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "275660",
+    "name": "Patel, Nishit, MD",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "94283",
+    "name": "Jacobs, Darren Lee, DO",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "217654",
+    "name": "Obuch, Joshua Charles, MD",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "79118",
+    "name": "HLAVAC, PHILIP JOSEPH",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "283825",
+    "name": "O'Konski, Mark, MD",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY OSSC"
+    ]
+  },
+  {
+    "provider_id": "251208",
+    "name": "WALLEN, TYLER JOHN",
+    "service_line": [
+      "Cardiac Surgery",
+      "Thoracic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "158642",
+    "name": "TROTT, KASANDRA NICHOLE",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "134520",
+    "name": "WALSH, BRIAN M",
+    "service_line": [
+      "Pulmonary Medicine"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "20101",
+    "name": "SADKA, GEORGE MARTIN",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GJSH"
+    ]
+  },
+  {
+    "provider_id": "155481",
+    "name": "PAREKH, PARAG DHIRAJLAL",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "107778",
+    "name": "BRUNO II, ANTHONY D",
+    "service_line": [
+      "Plastic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "22415",
+    "name": "WILLIAMS, MARK STANLEY",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "157322",
+    "name": "TOLLI, JOHN JOSEPH",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "249961",
+    "name": "TOWERS, JACKSON",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "37371",
+    "name": "GELL, JENNIFER SUE",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "274661",
+    "name": "UKO, VICTOR ESSIEN",
+    "service_line": [
+      "Peds Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "870",
+    "name": "VRABEC, TAMARA R",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "151671",
+    "name": "SLOTKIN, JONATHAN REESE",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "17099",
+    "name": "BUSHTA, JOHN FRANCIS",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "120639",
+    "name": "SCHINTZ, KRISTEN M",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "289621",
+    "name": "BABCOCK, KELLEY DANICE",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "156244",
+    "name": "NASSER, ELLIANNE MARIE",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "104677",
+    "name": "TRON, EDUARDO D",
+    "service_line": [
+      "Peds Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "213574",
+    "name": "LIETMAN, STEVEN ANDREW",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "158629",
+    "name": "MORRIS, GRANT ALLEN",
+    "service_line": [
+      "Peds Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GWV",
+      "ENDOSCOPY OSSC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "79939",
+    "name": "CLAVELL, MARIA INES",
+    "service_line": [
+      "Peds Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "200966",
+    "name": "BRINDLE, SHANNON ASHLEY",
+    "service_line": [
+      "Trauma"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "249963",
+    "name": "ULMER, KRISTEN",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GJSH",
+      "OR GMC",
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "157321",
+    "name": "SUSEK, MEHGAN MELISSA",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "31422",
+    "name": "BERNSTEIN, BARRY G",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "227736",
+    "name": "PURINTON, SCOTT CHRISTOPHER",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "249972",
+    "name": "WESSINGER, JACLYN DENISE",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "245724",
+    "name": "RADULESCU, MIHAI",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "15835",
+    "name": "SCHLORFF, WILLIAM JAMES",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GJSH"
+    ]
+  },
+  {
+    "provider_id": "20295",
+    "name": "CARPENETTI, STEFANO",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GJSH"
+    ]
+  },
+  {
+    "provider_id": "108018",
+    "name": "HALE, BENJAMIN P",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "258547",
+    "name": "ALURKAR, AJEY SHASFITKANT",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "232849",
+    "name": "SENTER, JOSHUA PATRICK",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "145516",
+    "name": "RYER, EVAN JOSEPH",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "235369",
+    "name": "ALTMAN, KENNETH WAYNE",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "211185",
+    "name": "DWYER, C LIAM",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "273689",
+    "name": "AKATEH, CLIFFORD",
+    "service_line": [
+      "Transplant Services"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "62161",
+    "name": "KLENA, JOEL C",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "159221",
+    "name": "STORM, TIMOTHY JAMES",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "156238",
+    "name": "KISH, RACHEL S",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "233963",
+    "name": "PALLIS, MARK PETER",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "155911",
+    "name": "STECKLER, ROBERT ERIC",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "232097",
+    "name": "KOLADE, OLAMIDE BAMIDELE",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "206969",
+    "name": "PORTONOVA, DAVID J",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "280692",
+    "name": "PIZANO, JESSICA MARIE",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "8807",
+    "name": "ERWIN, PATRICK J",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "287937",
+    "name": "SUTTON, RYAN M",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "200845",
+    "name": "KASENCHAK, JAMES ERIC",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "51516",
+    "name": "MCKENNA, SCOT ROBERT",
+    "service_line": [
+      "Plastic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "120282",
+    "name": "FOCHT III, DEAN R",
+    "service_line": [
+      "Peds Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY OSSC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "80614",
+    "name": "KUTZ, JOHN ANTHONY",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "146755",
+    "name": "CHAKRADEO, VINAYA KEDAR",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "270191",
+    "name": "NOEEN, SHANZA",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "287878",
+    "name": "BAS, CAN EMRE",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "285942",
+    "name": "KAKKAR, ATUL",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "243184",
+    "name": "RUBIN PANVINI, ANA MARITZA",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "61232",
+    "name": "OWUSU, SAMUEL",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "92597",
+    "name": "OLSEN IV, HANS PETER",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "93071",
+    "name": "UNZUETA, ALBERTO",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "211270",
+    "name": "MARTINEZ, MANUEL ALEJANDRO",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "1652",
+    "name": "HESS, W FRED",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "29958",
+    "name": "GURMAN, ANDREW WILLIAM",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "147494",
+    "name": "STINTON, NATALIE M",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "230369",
+    "name": "PERSON, CRAIG MARK",
+    "service_line": [
+      "Plastic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "259819",
+    "name": "CHEN, BING",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "217628",
+    "name": "ABDULSAMAD, MOLHAM",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "226013",
+    "name": "MODZESKI, MARA CLAUDIA",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR GMC",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "201142",
+    "name": "MORI, RYAN L",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "41293",
+    "name": "LINKER, SETH PAUL",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "106723",
+    "name": "FRANCO, TATIANA CAROLINA",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "80406",
+    "name": "COLLERAN, KEVIN R",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "24503",
+    "name": "MICCICHE, MARK JOHN",
+    "service_line": [
+      "Podiatry"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "216411",
+    "name": "CONGER, ANDREW RUSHING",
+    "service_line": [
+      "Neurosurgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "117037",
+    "name": "HARLOR, EVAN JAMES",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "205941",
+    "name": "LONG, KEVIN CARL",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY OSW",
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "57092",
+    "name": "TOMASZEWSKI, THEODORE JAMES",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "100204",
+    "name": "JOHAL, AMITPAL S",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "1540",
+    "name": "MARKS, STEVEN J",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "238291",
+    "name": "PAKNEZHAD, HASSAN",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "102925",
+    "name": "DIEHL, DAVID L",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "93108",
+    "name": "NIKAM, SHIVPRASAD D",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "20767",
+    "name": "SIROTNAK III, JOHN JOSEPH",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "287904",
+    "name": "KARNAM, SANTI",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "251131",
+    "name": "HUFNAGEL, ERICH M",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "216668",
+    "name": "CORNWELL, DREW W",
+    "service_line": [
+      "Pain Management"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSHP"
+    ]
+  },
+  {
+    "provider_id": "17750",
+    "name": "FELDMANN, DANIEL D",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GSACH",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "281104",
+    "name": "KAUFMAN, ANNICK MARIE",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY OSSC",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "96370",
+    "name": "KHURANA, SANDEEP",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "260674",
+    "name": "KIM, DANIEL LEE",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "159185",
+    "name": "JARVIS, WINGROVE THEOPHILUS",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GJSH"
+    ]
+  },
+  {
+    "provider_id": "8643",
+    "name": "ZALESKI JR, CHARLES E",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "443",
+    "name": "DONATO, ROBERT ANTHONY",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "153355",
+    "name": "HEGSTROM, MICHAEL TERRANCE",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "210381",
+    "name": "KAUFER, SETH WOODROW",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "134491",
+    "name": "HORSLEY, RYAN DAVID",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "60886",
+    "name": "DOUGHERTY, WILLIAM RUSSELL",
+    "service_line": [
+      "General Surgery",
+      "Plastic Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "272512",
+    "name": "NICKERSON, MORGAN DOUGLAS BENTLEY",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "249554",
+    "name": "VANDERBROOK, DOUGLAS JON",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "134516",
+    "name": "UPTON, DANIEL WILLIAM",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "112908",
+    "name": "ANDERSON, GREGORY SCOTT",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "64390",
+    "name": "PETRICK, ANTHONY T",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "373",
+    "name": "GREENE, JOSEPH SCOTT",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "157337",
+    "name": "MESSIMER, JULIE MARIE",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "287939",
+    "name": "VEERARAGHAVAN, GOPAL",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC"
+    ]
+  },
+  {
+    "provider_id": "102224",
+    "name": "BUZAS, CHRISTOPHER J",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GLH",
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "200857",
+    "name": "GARG, TULLIKA",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "280700",
+    "name": "MATTHEWS, BENJAMIN JADO",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "259829",
+    "name": "DAMIRIS, KONSTANTINOS",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "71879",
+    "name": "DEIVERT, DUANE E",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "12389",
+    "name": "WILSON, THOMAS WILLIAM",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "6205",
+    "name": "BALDASSANO, VINCENT FRANCIS",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "251135",
+    "name": "KUMAR, KISHORE",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC"
+    ]
+  },
+  {
+    "provider_id": "291784",
+    "name": "KUKREJA, MOHIT",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "288867",
+    "name": "CARRUBBA, STEVEN JOSEPH",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "157138",
+    "name": "MURRAY, BRIAN JUNIOR",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "226051",
+    "name": "SEELEY, ROUENNE",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "133571",
+    "name": "ALAPARTHI, MOHANBABU",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "64747",
+    "name": "AHLUM, THOMAS R",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "294096",
+    "name": "AMANKONAH, THOMAS DIAWUO",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY OSSC"
+    ]
+  },
+  {
+    "provider_id": "249893",
+    "name": "LONG, MINICA",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "274098",
+    "name": "HENSON, GRETCHEN K",
+    "service_line": [
+      "Oral Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "211275",
+    "name": "PATEL, SUNNY P",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "108045",
+    "name": "NOTZ, GREGORY M",
+    "service_line": [
+      "Ophthalmology"
+    ],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "1633",
+    "name": "KREEL, BARBARA J",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "14758",
+    "name": "WETZEL, GEHRED D",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "262309",
+    "name": "SAJID, HALEEMA",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "6265",
+    "name": "ELMORE, JAMES R",
+    "service_line": [
+      "Vascular Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "77872",
+    "name": "SKRINE, ROBIN A",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "158459",
+    "name": "CRAFT, BRANDON M",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC"
+    ]
+  },
+  {
+    "provider_id": "125395",
+    "name": "ALTAF, ATHAR",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "115683",
+    "name": "KHAN, YAKUB I",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "12387",
+    "name": "KOLESSAR, DAVID J",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "154786",
+    "name": "LOZO, ROBERT LESLIE",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "291787",
+    "name": "LARRABEE, KATHERINE",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "217638",
+    "name": "GOREN, ODED",
+    "service_line": [
+      "Neurosurgery Endovascular"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "200680",
+    "name": "BERGENSTOCK, MARIKA KATHERINE",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "226763",
+    "name": "GADRE, ARUN KAMALAKAR",
+    "service_line": [
+      "Neurosurgery",
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "100207",
+    "name": "PARK, ALYSSA",
+    "service_line": [
+      "General Surgery",
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "281557",
+    "name": "PODWIKA, SARAH",
+    "service_line": [
+      "Gynecology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "158859",
+    "name": "EISLER, LINDSAY SUZANNE",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "281543",
+    "name": "KARNIK, NIHAAL PRASHANT",
+    "service_line": [
+      "Gastroenterology"
+    ],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "83420",
+    "name": "SIMMONS, JENNIFER",
+    "service_line": [
+      "Urology"
+    ],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "62682",
+    "name": "LINDEMANN, TIMOTHY LYNN",
+    "service_line": [
+      "Otolaryngology"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "285923",
+    "name": "CHAUDHARY, CHIRAG B",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "217395",
+    "name": "MCCLENNEN, EVAN LEE",
+    "service_line": [
+      "Obstetrics"
+    ],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "92379",
+    "name": "SEMIAN, JOHN A",
+    "service_line": [
+      "General Surgery"
+    ],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "206978",
+    "name": "SEELEY, MARK ALAN",
+    "service_line": [
+      "Orthopaedics"
+    ],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  }
+]
