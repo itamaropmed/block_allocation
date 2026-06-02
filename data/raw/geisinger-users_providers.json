@@ -1,0 +1,2946 @@
+[
+  {
+    "provider_id": "PRV-0001",
+    "name": "General Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0002",
+    "name": "CAMPBELL, LINDA K",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0003",
+    "name": "JACKSON, SANDRA M",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0004",
+    "name": "Orthopaedics",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0005",
+    "name": "MARTINEZ, HELEN U",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY OSSC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0006",
+    "name": "THOMPSON, SHARON K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0007",
+    "name": "Cardiac Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0008",
+    "name": "KUMAR, WILLIAM A",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0009",
+    "name": "KING, EMMA S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSHP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0010",
+    "name": "Neurosurgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0011",
+    "name": "MILLER, WILLIAM R",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "OR GLH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0012",
+    "name": "THOMAS, KATHLEEN I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0013",
+    "name": "Gynecology",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0014",
+    "name": "MARTINEZ, CAROL C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "PRV-0015",
+    "name": "JACKSON, MICHELLE J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0016",
+    "name": "Otolaryngology",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0017",
+    "name": "WILSON, REBECCA R",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0018",
+    "name": "ROBERTS, KIMBERLY T",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GJSH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0019",
+    "name": "Urology",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0020",
+    "name": "COHEN, ALICE Q",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0021",
+    "name": "SMITH, HELEN R",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0022",
+    "name": "Ophthalmology",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0023",
+    "name": "THOMPSON, HELEN D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0024",
+    "name": "MARTINEZ, SANDRA D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0025",
+    "name": "Vascular Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY OSW",
+      "OR GBH",
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0026",
+    "name": "MILLER, SHIRLEY E",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0027",
+    "name": "LEE, DOROTHY T",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0028",
+    "name": "Thoracic Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0029",
+    "name": "THOMAS, LINDA K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0030",
+    "name": "THOMAS, JESSICA U",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0031",
+    "name": "Transplant Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0032",
+    "name": "MARTIN, KATHLEEN P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0033",
+    "name": "MARTIN, MICHAEL C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0034",
+    "name": "Pediatric Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "PRV-0035",
+    "name": "HALL, STEPHANIE I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0036",
+    "name": "WILLIAMS, JAMES K",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0037",
+    "name": "Plastic Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0038",
+    "name": "SHARMA, THOMAS U",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0039",
+    "name": "MARTIN, SARAH X",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0040",
+    "name": "Gastroenterology",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0041",
+    "name": "ALLEN, SHIRLEY W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0042",
+    "name": "YOUNG, SHIRLEY A",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0043",
+    "name": "Colorectal Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0044",
+    "name": "DAVIS, WILLIAM W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0045",
+    "name": "HERNANDEZ, ANGELA B",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0046",
+    "name": "Bariatric Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0047",
+    "name": "KIM, MICHELLE S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0048",
+    "name": "FLORES, CHARLES N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0049",
+    "name": "Hand Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0050",
+    "name": "MARTINEZ, ROBERT J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0051",
+    "name": "CLARK, ROBERT L",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0052",
+    "name": "Spine Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0053",
+    "name": "THOMAS, JESSICA H",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0054",
+    "name": "CAMPBELL, RICHARD L",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0055",
+    "name": "Joint Replacement",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0056",
+    "name": "SHARMA, SHIRLEY N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0057",
+    "name": "BAKER, CHARLES H",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "PRV-0058",
+    "name": "Sports Medicine",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0059",
+    "name": "WILSON, KAREN N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0060",
+    "name": "JOHNSON, KAREN X",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0061",
+    "name": "Trauma Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0062",
+    "name": "HARRIS, DEBORAH Z",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "PRV-0063",
+    "name": "CAMPBELL, MARGARET I",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0064",
+    "name": "Oral Surgery",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0065",
+    "name": "WILSON, MARY D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0066",
+    "name": "LEWIS, ROBERT P",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0067",
+    "name": "Podiatry",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0068",
+    "name": "MOORE, LISA O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "PRV-0069",
+    "name": "SANCHEZ, KIMBERLY Z",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0070",
+    "name": "Interventional Radiology",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0071",
+    "name": "MOORE, BETTY A",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0072",
+    "name": "CAMPBELL, LISA M",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0073",
+    "name": "Pain Management",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0074",
+    "name": "HARRIS, ASHLEY C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GJSH",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0075",
+    "name": "SHARMA, ASHLEY L",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GJSH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0076",
+    "name": "RIVERA, KATHLEEN M",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY OSSC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0077",
+    "name": "MITCHELL, ANGELA K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0078",
+    "name": "JOHNSON, JOSEPH I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0079",
+    "name": "ANDERSON, BRENDA I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0080",
+    "name": "WILLIAMS, RICHARD T",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0081",
+    "name": "YOUNG, CAROL X",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0082",
+    "name": "GUPTA, EMILY N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0083",
+    "name": "NELSON, KATHLEEN D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0084",
+    "name": "LEWIS, ANNA G",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0085",
+    "name": "MARTIN, ROBERT W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0086",
+    "name": "YOUNG, JAMES Q",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY OSW",
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0087",
+    "name": "COHEN, ANGELA V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0088",
+    "name": "CHEN, HELEN G",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0089",
+    "name": "CLARK, STEPHANIE C",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0090",
+    "name": "CAMPBELL, DONNA T",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "PRV-0091",
+    "name": "WHITE, HELEN D",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR GBH",
+      "OR GJSH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0092",
+    "name": "CHEN, KIMBERLY Q",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "PRV-0093",
+    "name": "THOMPSON, HELEN N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0094",
+    "name": "WHITE, MELISSA W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0095",
+    "name": "PEREZ, SHIRLEY E",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0096",
+    "name": "TAYLOR, DEBORAH V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0097",
+    "name": "LEWIS, JESSICA X",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0098",
+    "name": "ANDERSON, EMMA S",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0099",
+    "name": "THOMPSON, MELISSA R",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0100",
+    "name": "KIM, JAMES J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0101",
+    "name": "PEREZ, NANCY N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0102",
+    "name": "GUPTA, BRENDA T",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "PRV-0103",
+    "name": "RIVERA, EMILY O",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0104",
+    "name": "ALLEN, REBECCA V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0105",
+    "name": "THOMAS, KATHLEEN P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0106",
+    "name": "GUPTA, SARAH V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0107",
+    "name": "GARCIA, DOROTHY Q",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0108",
+    "name": "CAMPBELL, ELIZABETH T",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0109",
+    "name": "HARRIS, DAVID Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0110",
+    "name": "JACKSON, JESSICA J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0111",
+    "name": "MOORE, LISA E",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0112",
+    "name": "JOHNSON, ROBERT H",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0113",
+    "name": "WRIGHT, EMMA Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0114",
+    "name": "JONES, SHARON N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0115",
+    "name": "HALL, ANNA G",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0116",
+    "name": "ROBERTS, MARY M",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GJSH",
+      "OR GMC",
+      "OR GWV",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0117",
+    "name": "SCOTT, MELISSA H",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0118",
+    "name": "HERNANDEZ, ALICE W",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0119",
+    "name": "SMITH, RICHARD Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0120",
+    "name": "YOUNG, BETTY F",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM",
+      "OR GSACH",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0121",
+    "name": "COHEN, MARY Q",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSCP",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0122",
+    "name": "KING, MICHAEL R",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0123",
+    "name": "JACKSON, JOSEPH O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "PRV-0124",
+    "name": "MARTINEZ, SHARON V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GJSH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0125",
+    "name": "NGUYEN, SHIRLEY T",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0126",
+    "name": "WHITE, REBECCA T",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0127",
+    "name": "LEVY, KATHLEEN N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0128",
+    "name": "KIM, SHIRLEY O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0129",
+    "name": "WILSON, LAURA O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0130",
+    "name": "MARTIN, MARGARET U",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0131",
+    "name": "LEE, AMY P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0132",
+    "name": "HALL, MARGARET I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0133",
+    "name": "ALLEN, WILLIAM W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSHP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0134",
+    "name": "PEREZ, MARGARET I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0135",
+    "name": "HARRIS, EMILY R",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0136",
+    "name": "GARCIA, THOMAS E",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0137",
+    "name": "MOORE, AMANDA W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0138",
+    "name": "HERNANDEZ, LINDA G",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0139",
+    "name": "JONES, DEBORAH N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0140",
+    "name": "HARRIS, ANGELA O",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0141",
+    "name": "WALKER, MICHAEL G",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0142",
+    "name": "KIM, DEBORAH M",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0143",
+    "name": "SHARMA, BRENDA W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0144",
+    "name": "JOHNSON, ANNA M",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0145",
+    "name": "WRIGHT, JAMES L",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0146",
+    "name": "THOMPSON, AMANDA N",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0147",
+    "name": "HILL, ANGELA Z",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0148",
+    "name": "NELSON, BETTY P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0149",
+    "name": "MOORE, ASHLEY N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0150",
+    "name": "SCOTT, JOHN M",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0151",
+    "name": "HARRIS, HELEN V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0152",
+    "name": "COHEN, MELISSA X",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0153",
+    "name": "WILSON, SHARON E",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0154",
+    "name": "BAKER, ANGELA A",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0155",
+    "name": "ROBINSON, BRENDA S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0156",
+    "name": "CAMPBELL, JOHN C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0157",
+    "name": "RIVERA, STEPHANIE E",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0158",
+    "name": "KING, KAREN B",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSWB",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0159",
+    "name": "MARTIN, AMANDA K",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0160",
+    "name": "THOMAS, SHARON K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0161",
+    "name": "HARRIS, AMANDA I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0162",
+    "name": "KUMAR, DEBORAH I",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0163",
+    "name": "KIM, DAVID P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0164",
+    "name": "JOHNSON, ANGELA B",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0165",
+    "name": "SANCHEZ, BETTY U",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0166",
+    "name": "JONES, ALICE B",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0167",
+    "name": "KUMAR, JOHN H",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0168",
+    "name": "TAYLOR, JOHN T",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0169",
+    "name": "HERNANDEZ, MARGARET E",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0170",
+    "name": "WRIGHT, HELEN D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0171",
+    "name": "GREEN, NANCY O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0172",
+    "name": "CARTER, SANDRA Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "PRV-0173",
+    "name": "CLARK, SARAH T",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0174",
+    "name": "NELSON, LINDA D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0175",
+    "name": "SHARMA, SARAH J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0176",
+    "name": "MILLER, BRENDA A",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0177",
+    "name": "THOMPSON, ANNA V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "PRV-0178",
+    "name": "LEWIS, MELISSA W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GJSH",
+      "OR GMC",
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "PRV-0179",
+    "name": "TAYLOR, WILLIAM S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0180",
+    "name": "CARTER, ELIZABETH H",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0181",
+    "name": "MILLER, MARY Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0182",
+    "name": "THOMPSON, JESSICA T",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0183",
+    "name": "COHEN, JOSEPH Z",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0184",
+    "name": "GREEN, ROBERT L",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0185",
+    "name": "HILL, STEPHANIE V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "PRV-0186",
+    "name": "CLARK, WILLIAM Q",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0187",
+    "name": "RIVERA, DONNA A",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0188",
+    "name": "WALKER, CYNTHIA D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0189",
+    "name": "YOUNG, MICHELLE U",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "PRV-0190",
+    "name": "KIM, SHARON W",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0191",
+    "name": "HERNANDEZ, STEPHANIE F",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0192",
+    "name": "CHEN, AMY U",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0193",
+    "name": "LEE, EMMA Z",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0194",
+    "name": "HILL, LAURA O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB"
+    ]
+  },
+  {
+    "provider_id": "PRV-0195",
+    "name": "YOUNG, BRENDA I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0196",
+    "name": "WHITE, MARGARET C",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0197",
+    "name": "LEE, REBECCA H",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GWV",
+      "ENDOSCOPY OSSC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0198",
+    "name": "KUMAR, SHARON S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GLH",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0199",
+    "name": "BAKER, HELEN M",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0200",
+    "name": "HARRIS, JOHN P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0201",
+    "name": "WHITE, KAREN P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GLH",
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0202",
+    "name": "THOMAS, CAROL Z",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0203",
+    "name": "MARTIN, DONNA I",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0204",
+    "name": "NELSON, MARY I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "PRV-0205",
+    "name": "FLORES, JAMES Q",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0206",
+    "name": "TAYLOR, DAVID H",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0207",
+    "name": "CHEN, DEBORAH P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0208",
+    "name": "FLORES, MARGARET W",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0209",
+    "name": "WRIGHT, ALICE W",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0210",
+    "name": "SCOTT, REBECCA Z",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0211",
+    "name": "JOHNSON, DAVID J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GJSH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0212",
+    "name": "MOORE, MELISSA W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0213",
+    "name": "JACKSON, KIMBERLY V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0214",
+    "name": "ADAMS, MICHELLE P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0215",
+    "name": "FLORES, AMY L",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0216",
+    "name": "YOUNG, SHIRLEY K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0217",
+    "name": "SANCHEZ, MARY O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0218",
+    "name": "LEE, KIMBERLY I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0219",
+    "name": "MOORE, JOSEPH X",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0220",
+    "name": "TAYLOR, EMILY D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSHP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0221",
+    "name": "PATEL, ANGELA Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GJSH",
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0222",
+    "name": "CARTER, KAREN G",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0223",
+    "name": "THOMAS, LAURA I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0224",
+    "name": "CHEN, BRENDA Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0225",
+    "name": "NGUYEN, PAMELA J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0226",
+    "name": "MILLER, LISA J",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0227",
+    "name": "MOORE, MICHELLE F",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0228",
+    "name": "THOMPSON, JAMES W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0229",
+    "name": "HILL, THOMAS I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0230",
+    "name": "WILLIAMS, MICHAEL R",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0231",
+    "name": "PEREZ, MARY E",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0232",
+    "name": "HALL, CYNTHIA D",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0233",
+    "name": "SMITH, ANNA J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0234",
+    "name": "WRIGHT, LAURA O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0235",
+    "name": "HARRIS, KAREN B",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0236",
+    "name": "MARTIN, LAURA D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0237",
+    "name": "LEVY, WILLIAM M",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0238",
+    "name": "SCOTT, WILLIAM S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0239",
+    "name": "HALL, JESSICA B",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0240",
+    "name": "HERNANDEZ, CHARLES Z",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0241",
+    "name": "GREEN, KIMBERLY C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0242",
+    "name": "JACKSON, JOSEPH R",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0243",
+    "name": "KUMAR, DEBORAH T",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0244",
+    "name": "NELSON, EMMA H",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0245",
+    "name": "SHARMA, AMY M",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0246",
+    "name": "ALLEN, REBECCA J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GMCM",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0247",
+    "name": "ADAMS, STEPHANIE J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0248",
+    "name": "GREEN, EMMA B",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0249",
+    "name": "BAKER, RICHARD Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0250",
+    "name": "THOMAS, ELIZABETH G",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0251",
+    "name": "MARTIN, HELEN C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR GMC",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0252",
+    "name": "WILSON, MARGARET F",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0253",
+    "name": "FLORES, WILLIAM F",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0254",
+    "name": "SMITH, DEBORAH O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0255",
+    "name": "CARTER, PAMELA P",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0256",
+    "name": "PEREZ, ROBERT H",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0257",
+    "name": "PEREZ, LINDA J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0258",
+    "name": "CARTER, SHARON C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0259",
+    "name": "MITCHELL, BETTY I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0260",
+    "name": "GUPTA, ELIZABETH S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0261",
+    "name": "CAMPBELL, LISA N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC",
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "PRV-0262",
+    "name": "DAVIS, ANGELA H",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY OSSC",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0263",
+    "name": "RIVERA, CHARLES I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMCM"
+    ]
+  },
+  {
+    "provider_id": "PRV-0264",
+    "name": "LEVY, CHARLES C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0265",
+    "name": "BROWN, SARAH Z",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0266",
+    "name": "THOMPSON, PAMELA X",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0267",
+    "name": "LEVY, ANNA J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0268",
+    "name": "ALLEN, JOSEPH O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0269",
+    "name": "CARTER, KIMBERLY W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0270",
+    "name": "ROBINSON, ASHLEY Q",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0271",
+    "name": "HILL, CYNTHIA O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0272",
+    "name": "GARCIA, PAMELA B",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0273",
+    "name": "YOUNG, EMILY T",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0274",
+    "name": "MARTIN, JOHN C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0275",
+    "name": "MOORE, JESSICA S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0276",
+    "name": "ADAMS, JOHN Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0277",
+    "name": "MITCHELL, ASHLEY S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0278",
+    "name": "WILLIAMS, KAREN P",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0279",
+    "name": "NGUYEN, ALICE O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0280",
+    "name": "LEE, KAREN S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0281",
+    "name": "YOUNG, ELIZABETH P",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0282",
+    "name": "GARCIA, LAURA L",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0283",
+    "name": "WALKER, DONNA K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0284",
+    "name": "CAMPBELL, RICHARD F",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY OSW",
+      "OR GBH",
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0285",
+    "name": "HARRIS, DEBORAH W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0286",
+    "name": "SCOTT, DOROTHY V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0287",
+    "name": "ROBINSON, SHIRLEY B",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0288",
+    "name": "KING, DAVID K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0289",
+    "name": "MARTIN, EMILY D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0290",
+    "name": "SHARMA, MELISSA Q",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0291",
+    "name": "LEVY, JAMES V",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSACH",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0292",
+    "name": "HILL, SHARON N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0293",
+    "name": "BROWN, LISA Q",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0294",
+    "name": "CLARK, EMMA Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0295",
+    "name": "SCOTT, ELIZABETH O",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0296",
+    "name": "KUMAR, MICHAEL G",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0297",
+    "name": "LEE, SHIRLEY E",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC",
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0298",
+    "name": "PEREZ, REBECCA W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0299",
+    "name": "SCOTT, JOSEPH A",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0300",
+    "name": "HALL, PAMELA Z",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0301",
+    "name": "JACKSON, LINDA F",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0302",
+    "name": "THOMPSON, SHIRLEY A",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0303",
+    "name": "FLORES, DEBORAH C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0304",
+    "name": "MOORE, JOSEPH O",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GECL",
+      "ENDOSCOPY OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0305",
+    "name": "DAVIS, ALICE E",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0306",
+    "name": "SCOTT, LINDA J",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0307",
+    "name": "TORRES, LINDA I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0308",
+    "name": "WALKER, LAURA P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0309",
+    "name": "JACKSON, SHARON R",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0310",
+    "name": "HERNANDEZ, AMANDA G",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0311",
+    "name": "NELSON, KATHLEEN X",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0312",
+    "name": "MARTINEZ, WILLIAM I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0313",
+    "name": "SHARMA, DEBORAH K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0314",
+    "name": "GUPTA, KATHLEEN I",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0315",
+    "name": "LEVY, JAMES J",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0316",
+    "name": "CHEN, KIMBERLY S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0317",
+    "name": "ADAMS, HELEN P",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GLH",
+      "OR GSWB",
+      "OR GWV",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0318",
+    "name": "HERNANDEZ, REBECCA R",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC",
+      "OR GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0319",
+    "name": "WRIGHT, CAROL K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0320",
+    "name": "FLORES, ANGELA M",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0321",
+    "name": "KING, EMILY G",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0322",
+    "name": "CARTER, MARGARET S",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH",
+      "OR OSSC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0323",
+    "name": "LEWIS, BETTY Y",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0324",
+    "name": "WALKER, ROBERT K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0325",
+    "name": "PATEL, LAURA W",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0326",
+    "name": "COHEN, AMANDA M",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GSWB",
+      "OR OSCP"
+    ]
+  },
+  {
+    "provider_id": "PRV-0327",
+    "name": "CAMPBELL, ALICE E",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GMC",
+      "ENDOSCOPY GSACH",
+      "ENDOSCOPY OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0328",
+    "name": "SCOTT, ROBERT E",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GLH"
+    ]
+  },
+  {
+    "provider_id": "PRV-0329",
+    "name": "TORRES, BRENDA K",
+    "service_line": [],
+    "exclusive_sites": [
+      "ENDOSCOPY GCMC",
+      "ENDOSCOPY GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0330",
+    "name": "MILLER, REBECCA D",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0331",
+    "name": "NGUYEN, SHARON A",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0332",
+    "name": "CHEN, CHARLES N",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0333",
+    "name": "RIVERA, CHARLES C",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GBH",
+      "OR GMC"
+    ]
+  },
+  {
+    "provider_id": "PRV-0334",
+    "name": "WRIGHT, SANDRA K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GCMC",
+      "OR GWV"
+    ]
+  },
+  {
+    "provider_id": "PRV-0335",
+    "name": "BAKER, MARY M",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GJSH",
+      "OR GMC",
+      "OR GSACH",
+      "OR OSW"
+    ]
+  },
+  {
+    "provider_id": "PRV-0336",
+    "name": "RIVERA, DAVID K",
+    "service_line": [],
+    "exclusive_sites": [
+      "OR GMC"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+# Paste this under `layer2:` in config/default_config.yaml, or merge manually.
+# v3 defaults are designed to avoid the infeasible-fast issue caused by legacy
+# warm-start overlap artifacts in the reconstructed Pre-Layer template.
+
+coverage_alpha: 0.85
+partial_coverage_alpha: 0.70
+optimization_weeks: 13
+n_scenarios: 200
+
+default_target_utilization: 0.70
+max_auto_goals: 12
+
+# IMPORTANT for tractability:
+# false = only goal providers can take new blocks; non-goal warm providers can
+# keep their current blocks. This is the recommended first production setting.
+optimize_all_template_providers: false
+
+# Increase gradually after the first successful run.
+max_template_blocks_for_mip: 250
+mip_retry_block_caps: [250, 150, 100, 60]
+
+mip_time_limit_s: 120
+mip_gap_rel: 0.01
+mip_threads: 4
+solver_msg: 0
+warm_start: true
+lambda_penalty: 10000
+
+use_site_filter: true
+use_room_filter: true
+enforce_no_overlap: true
+enforce_one_site_per_day: true
+use_fragmentation_objective: true
+
+# Critical fix:
+# false means: if the historical/pre-layer warm-start already assigns the same
+# provider to overlapping canonical blocks, skip only that legacy contradictory
+# C7/C11 pair instead of making the whole MIP infeasible before optimization.
+# New assignments are still constrained by C7/C11.
+enforce_no_overlap_on_legacy_warm_conflicts: false
+
+pareto_themes:
+  - utilization_first
+  - continuity_first
+  - stability_first
+  - preference_first
+
+# After the base 4-theme run is feasible, turn this on for stricter epsilon-frontier anchors.
+use_epsilon_bounds: false
+epsilon_time_limit_s: 45
+epsilon_scenario_sample: 50
+
+# Optional continuous O1-vs-O3 frontier. Turn on only after the 4-theme run works.
+trace_biobjective_frontier: false
+frontier_points: 7
+frontier_time_limit_s: 90
+
+# Optional explicit goals CSV. If omitted, Layer 2 auto-picks top demand providers
+# that appear in the Pre-Layer template.
+# goals_csv: data/layer2/provider_goals.csv
